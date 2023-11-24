@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-### H3 BBC SH CAST
+### BBC SH CAST ###
 1. Sherlock Holmes
 2. John Watson
 3. Jim Moriarty
@@ -11,7 +11,7 @@ My first repository
 
 	> Bored.<
 
-==**STAYIN' ALIVE**==
+**STAYIN' ALIVE**
 
 :joy:
  
